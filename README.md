@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TR-Nakruf
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning python and java
-- 📫 How to reach me nakruf5884@gmail.com 
+- 📫 How to reach me info@furkanozturklab.com
 
 <!---
 Furkan Öztürk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
